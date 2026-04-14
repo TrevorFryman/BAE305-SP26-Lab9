@@ -1,7 +1,10 @@
 numpy
 pandas
+plotly
 matplotlib
 datetime
 streamlit
 folium
 streamlit_folium
+ipywidgets
+jupyter
