@@ -2,4 +2,4 @@
 Lab 9: Python and AI
 
 
-[Link Text](Requiredments.txt)
+[Required Packages](Requirements.txt)
